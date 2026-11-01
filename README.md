@@ -1,6 +1,6 @@
 # e-Food – Cart Nutrition Ranking (Nutri-Score)
 
-Tampermonkey userscript for the **rendel.e-food.hu /checkout** cart: evaluates and ranks cart items by nutrition using **Nutri-Score (A–E)**.
+Tampermonkey userscript for the **efood.hu** (**rendel.e-food.hu**/checkout) cart: evaluates and ranks cart items by nutrition using **Nutri-Score (A–E)**.
 
 Last updated: 2026-11-01
 
